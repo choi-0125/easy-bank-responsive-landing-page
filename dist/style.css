@@ -331,7 +331,7 @@ button:hover:before {
   }
 }
 .hero__image:after {
-  background-image: url("/images/image-mockups.png");
+  background-image: url("https://choi-0125.github.io/easy-bank-responsive-landing-page/images/image-mockups.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 93%;
