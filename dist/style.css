@@ -320,7 +320,7 @@ button:hover:before {
     order: 2;
   }
   .hero__image:before {
-    background-image: url("/images/bg-desktop.svg");
+    background-image: url("../images/bg-desktop.svg");
     background-position: 0 83%;
     background-repeat: no-repeat;
     background-size: 100%;
